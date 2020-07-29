@@ -10,7 +10,6 @@
 * Profundización en tipos de datos cualitativos, cuantitativos  y ordinales y el correcto análisis de cada uno de ellos.
 * Repositorio Github con todo el material del curso para disponer de los mismos scripts que usamos en clase desde el minuto inicial.
 
-*Prueba Negrita*
 
 1. Trabajando con R y con Python
 2. Documentación con R Markdown
